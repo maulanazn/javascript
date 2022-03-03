@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.kotak {
+	width: 200px;
+	height: 200px;
+	border: 2px solid lightblue;
+	margin: 50px auto;
+	transition: .3s width;
+				.3s height .3s;
+				.3s margin top .3s;
+				1s background-color;
+}
+
+
+
+.size {
+	width: 500px;
+	height: 500px;
+	margin-top: 50px;
+}
+
+.caption {
+	background-color: black;
+}
